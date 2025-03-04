@@ -23,8 +23,11 @@ This project demonstrates Object-Oriented Programming (OOP) concepts, such as:
 ✅ Search student by PRN, Name, or Position
 
 ✅ Update student details
+
 ✅ Delete student
+
 ✅ Uses ArrayList for storing students dynamically
+
 ✅ Implements Exception Handling for user input
 
 # 📂 Project Structure
