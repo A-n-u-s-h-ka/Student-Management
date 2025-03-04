@@ -17,8 +17,11 @@ This project demonstrates Object-Oriented Programming (OOP) concepts, such as:
 
 # Features
 ✅ Add student with PRN, Name, Date of Birth, and Marks
+
 ✅ Display all students
+
 ✅ Search student by PRN, Name, or Position
+
 ✅ Update student details
 ✅ Delete student
 ✅ Uses ArrayList for storing students dynamically
